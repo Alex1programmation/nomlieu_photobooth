@@ -8,7 +8,7 @@
   },
   "author": "nomlieu",
   "license": "ISC",
-  "type": "module",
+  "type":"module",
   "dependencies": {
     "rpi-gpio": "^2.1.7"
   }
